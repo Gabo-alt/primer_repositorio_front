@@ -9,9 +9,10 @@
         h1 {color: blue;
             font-size: 50px;
             font-family: fantasy;
-            margin-top: 50px;
-            border-style: solid; 
-            background-image: url(../images/foto.jpg);}
+            margin: 20px;
+            }
+            
+            
             
         h2 {color: brown;
             text-decoration: underline;}
@@ -19,4 +20,11 @@
         body{background-color: beige;}
 
         .list-item{color: blueviolet;}
+        .nav-items{display: flex;}
+        .nav-items li{ margin: 1rem;
+        list-style: none;
+        font-family: cursive;}
         
+        .nav-items li a {text-decoration: none;}
+
+        a {background-color:burlywood;}
