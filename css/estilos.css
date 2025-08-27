@@ -1,0 +1,22 @@
+   /** comentario css **/
+        html{
+            box-sizing: border-box;
+            font-size: 62.5%;}
+        *, *:before, *::after {
+            box-sizing:inherit;
+        }
+
+        h1 {color: blue;
+            font-size: 50px;
+            font-family: fantasy;
+            margin-top: 50px;
+            border-style: solid; 
+            background-image: url(../images/foto.jpg);}
+            
+        h2 {color: brown;
+            text-decoration: underline;}
+
+        body{background-color: beige;}
+
+        .list-item{color: blueviolet;}
+        
